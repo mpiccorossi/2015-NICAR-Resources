@@ -1,5 +1,5 @@
 #This is a copy of @AnnieWaldman's materials from the Intro to R sessions that she presented at NICAR 2015 in Atlanta. 
-#
+#@mpiccorossi is just using this as an exercise to learn a bit more about both R, and GitHub
 #####################################################################################################
 #
 #                                       ____________________________
