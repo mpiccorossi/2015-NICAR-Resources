@@ -1,0 +1,101 @@
+Ticker,Company,CEO Name,Year,Compensation ($),Industry,Gender,Headquarters_city,Headquarters_state
+LNG,CHENIERE ENERGY INC,Charif Souki,2013,"$141,949,280 ",Energy,Male,Houston,TX
+GBL,GAMCO INVESTORS INC,Mario J. Gabelli,2013,"$85,049,800 ",Finance,Male,Rye,NY
+ORCL,ORACLE CORP,Lawrence J. Ellison,2013,"$78,440,657 ",Tech,Male,Redwood City,CA
+SD,SANDRIDGE ENERGY INC,Tom L. Ward,2013,"$71,119,765 ",Energy,Male,Oklahoma City,OK
+NBR,NABORS INDUSTRIES LTD,Anthony G. Petrello,2013,"$68,246,187 ",Energy,Male,Hamilton,Bermuda
+CBS,CBS CORP,Leslie Moonves,2013,"$66,932,581 ",Media,Male,New York,NY
+TDG,TRANSDIGM GROUP INC,W. Nicholas Howley,2013,"$64,214,656 ",Aerospace,Male,Cleveland ,OH
+ZNGA,ZYNGA INC,Don A. Mattrick,2013,"$57,814,391 ",Tech,Male,San Francisco,CA
+FCX,FREEPORT-MCMORAN COP&GOLD,Richard C. Adkerson,2013,"$55,260,539 ",Metals,Male,Phoenix,AZ
+MCK,MCKESSON CORP,John H. Hammergren,2013,"$51,744,999 ",Biotech,Male,San Francisco,CA
+S,SPRINT CORP,Daniel R. Hesse,2013,"$49,077,699 ",Telecommunications,Male,Overland Park,KS
+LNKD,LINKEDIN CORP,Jeffrey Weiner,2013,"$49,071,363 ",Media,Male,Mountain View,CA
+ENH,ENDURANCE SPECIALTY HOLDINGS,John R. Charman,2013,"$46,024,661 ",Insurance,Male,Pembroke,Bermuda
+HELE,HELEN OF TROY LTD,Gerald J. Rubin,2013,"$41,639,281 ",Consumer Products,Male,Hamilton,Bermuda
+TRIP,TRIPADVISOR INC,Stephen Kaufer,2013,"$39,014,227 ",Tech,Male,Newton,MA
+UTHR,UNITED THERAPEUTICS CORP,Martine A. Rothblatt,2013,"$38,218,255 ",Biotech,Female,Silver Spring,MD
+VIAB,VIACOM INC,Philippe P. Dauman,2013,"$37,165,750 ",Media,Male,New York,NY
+RH,RESTORATION HARDWARE HLDNGS,Gary Friedman,2013,"$36,456,559 ",Retail,Male,Corte Madera,CA
+REGN,REGENERON PHARMACEUTICALS,"Leonard S. Schleifer M.D., Ph.D.",2013,"$36,272,665 ",Biotech,Male,Tarrytown,NY
+DIS,DISNEY (WALT) CO,Robert A. Iger,2013,"$34,321,055 ",Media,Male,Burbank,CA
+DISCA,DISCOVERY COMMUNICATIONS INC,David M. Zaslav,2013,"$33,349,798 ",Media,Male,Silver Spring,MD
+FLT,FLEETCOR TECHNOLOGIES INC,Ronald F. Clarke,2013,"$32,858,320 ",Finance,Male,Norcross,GA
+TWX,TIME WARNER INC,Jeffrey L. Bewkes,2013,"$32,501,715 ",Media,Male,New York,NY
+AVGO,AVAGO TECHNOLOGIES LTD,Hock E. Tan,2013,"$31,867,129 ",Industrials,Male,San Jose,CA
+EL,LAUDER (ESTEE) COS INC,Fabrizio Freda,2013,"$31,598,679 ",Consumer Products,Male,New York,NY
+CMCSA,COMCAST CORP,Brian L. Roberts,2013,"$31,367,254 ",Media,Male,Philadelphia,PA
+CRM,SALESFORCE.COM INC,Marc Benioff,2014,"$31,333,332 ",Tech,Male,San Francisco,CA
+CVS,CVS CAREMARK CORP,Larry J. Merlo,2013,"$31,330,162 ",Retail,Male,Woonsocket,RI
+AET,AETNA INC,Mark Bertolini,2013,"$30,725,409 ",Insurance,Male,Hartford,CT
+STRZA,STARZ,Christopher P. Albrecht,2013,"$30,494,966 ",Media,Male,Englewood,CO
+SLH,SOLERA HOLDINGS INC,Tony Aquila,2013,"$29,895,831 ",Tech,Male,Westlake,TX
+TMUS,T-MOBILE US INC,John J. Legere,2013,"$29,245,708 ",Telecommunications,Male,Bellevue,WA
+NUAN,NUANCE COMMUNICATIONS INC,Paul A. Ricci,2013,"$29,226,829 ",Tech,Male,Burlington,MA
+P,PANDORA MEDIA INC,Brian McAndrews,2013,"$29,167,388 ",Tech,Male,Oakland,CA
+XOM,EXXON MOBIL CORP,R. W. Tillerson,2013,"$28,138,329 ",Energy,Male,Irving,TX
+PH,PARKER-HANNIFIN CORP,Donald E. Washkewicz,2013,"$27,440,888 ",Machinery,Male,Cleveland ,OH
+HAS,HASBRO INC,Brian Goldner,2013,"$27,440,726 ",Consumer Products,Male,Pawtucket,RI
+HAIN,HAIN CELESTIAL GROUP INC,Irwin D. Simon,2013,"$26,426,555 ",Consumer Products,Male,New Hyde Park,NY
+RL,RALPH LAUREN CORP,Ralph Lauren,2013,"$26,157,178 ",Consumer Products,Male,New York,NY
+HON,HONEYWELL INTERNATIONAL INC,David M. Cote,2013,"$25,973,246 ",Industrials,Male,Morristown,NJ
+EMR,EMERSON ELECTRIC CO,D. N. Farr,2013,"$25,318,952 ",Industrials,Male,St. Louis,MO
+LMT,LOCKHEED MARTIN CORP,Marillyn A. Hewson,2013,"$25,155,799 ",Aerospace,Female,Bethesda,MD
+CMG,CHIPOTLE MEXICAN GRILL INC,Steve Ells,2013,"$25,116,871 ",Restaurants,Male,Denver,CO
+YHOO,YAHOO INC,Marissa A. Mayer,2013,"$24,935,712 ",Tech,Female,Sunnyvale,CA
+TRW,TRW AUTOMOTIVE HOLDINGS CORP,John C. Plant,2013,"$24,466,286 ",Automotive,Male,Livonia,MI
+V,VISA INC,Charles W. Scharf,2013,"$24,201,851 ",Finance,Male,Foster City,CA
+MINI,MOBILE MINI INC,Erik Olsson,2013,"$24,073,209 ",Storage,Male,Tempe,AZ
+CVX,CHEVRON CORP,J. S. Watson,2013,"$24,017,303 ",Energy,Male,San Ramon,CA
+RLGY,REALOGY HOLDINGS CORP,Richard A. Smith,2013,"$23,996,109 ",Real Estate,Male,Madison,NJ
+BXP,BOSTON PROPERTIES INC,Mortimer B. Zuckerman,2013,"$23,821,829 ",Real Estate,Male,Boston,MA
+COP,CONOCOPHILLIPS,R. M. Lance,2013,"$23,437,415 ",Energy,Male,Houston,TX
+MRO,MARATHON OIL CORP,Clarence P. Cazalot Jr.,2013,"$23,293,664 ",Energy,Male,Houston,TX
+BA,BOEING CO,W. James McNerney Jr.,2013,"$23,263,562 ",Aerospace,Male,Chicago,IL
+T,AT&T INC,R. Stephenson,2013,"$23,247,167 ",Telecommunications,Male,Dallas,TX
+F,FORD MOTOR CO,Alan Mulally,2013,"$23,204,534 ",Automotive,Male,Dearborn,MI
+ETN,EATON CORP PLC,A. M. Cutler,2013,"$23,097,458 ",Industrials,Male,Cleveland ,OH
+SIRI,SIRIUS XM HOLDINGS INC,James E. Meyer,2013,"$23,065,307 ",Media,Male,New York,NY
+SLB,SCHLUMBERGER LTD,P. Kibsgaard,2013,"$22,837,540 ",Energy,Male,Houston,TX
+THC,TENET HEALTHCARE CORP,Trevor Fetter,2013,"$22,734,127 ",Health Care,Male,Dallas,TX
+TJX,TJX COMPANIES INC,Carol Meyrowitz,2014,"$22,514,033 ",Retail,Female,Framingham,MA
+CHK,CHESAPEAKE ENERGY CORP,Robert D. Lawler,2013,"$22,423,367 ",Energy,Male,Oklahoma City,OK
+GGP,GENERAL GROWTH PPTYS INC,Sandeep Mathrani,2013,"$22,102,608 ",Finance,Male,Chicago,IL
+AXP,AMERICAN EXPRESS CO,K. I. Chenault,2013,"$21,837,420 ",Finance,Male,New York,NY
+ROP,ROPER INDUSTRIES INC,Brian D. Jellison,2013,"$21,368,796 ",Industrials,Male,Sarasota,FL
+CSC,COMPUTER SCIENCES CORP,J. Michael Lawrie,2013,"$21,288,188 ",Tech,Male,Falls Church,VA
+RE,EVEREST RE GROUP LTD,Joseph V. Taranto,2013,"$21,287,058 ",Insurance,Male,Hamilton,Bermuda
+DFS,DISCOVER FINANCIAL SVCS INC,David W. Nelms,2013,"$21,171,839 ",Finance,Male,Riverwoods,IL
+CSCO,CISCO SYSTEMS INC,John T. Chambers,2013,"$21,049,501 ",Tech,Male,San Jose,CA
+CELG,CELGENE CORP,Robert J. Hugin,2013,"$20,995,785 ",Biotech,Male,Summit,NJ
+ABT,ABBOTT LABORATORIES,Miles D. White,2013,"$20,865,668 ",Health Care,Male,Chicago,IL
+HAL,HALLIBURTON CO,David J. Lesar,2013,"$20,865,214 ",Energy,Male,Houston,TX
+BMY,BRISTOL-MYERS SQUIBB CO,Lamberto Andreotti,2013,"$20,847,746 ",Biotech,Male,New York,NY
+MDCA,MDC PARTNERS INC,Miles S. Nadal,2013,"$20,679,263 ",Media,Male,New York,NY
+DOW,DOW CHEMICAL,Andrew N. Liveris,2013,"$20,452,877 ",Chemicals,Male,Midland,MI
+QCOM,QUALCOMM INC,Paul E. Jacobs,2013,"$20,448,940 ",Tech,Male,San Diego,CA
+PAY,VERIFONE SYSTEMS INC,Paul Galant,2013,"$20,428,883 ",Tech,Male,San Jose,CA
+KO,COCA-COLA CO,Muhtar Kent,2013,"$20,380,660 ",Consumer Products,Male,Atlanta,GA
+UTX,UNITED TECHNOLOGIES CORP,Louis Chnevert,2013,"$20,274,316 ",Aerospace,Male,Hartford,CT
+SLM,SLM CORP -SPN,Albert L. Lord,2013,"$20,179,567 ",Finance,Male,Newark,DE
+MO,ALTRIA GROUP INC,Martin J. Barrington,2013,"$20,139,967 ",Consumer Products,Male,Richmond,VA
+AMG,AFFILIATED MANAGERS GRP INC,Sean M. Healey,2013,"$20,007,855 ",Finance,Male,Beverly,MA
+CMLS,CUMULUS MEDIA INC,Lewis W. Dickey Jr.,2013,"$19,955,769 ",Media,Male,Atlanta,GA
+GS,GOLDMAN SACHS GROUP INC,Lloyd C. Blankfein,2013,"$19,928,813 ",Finance,Male,New York,NY
+HCN,HEALTH CARE REIT INC,George L. Chapman,2013,"$19,843,772 ",Health Care,Male,Toledo,OH
+PSX,PHILLIPS 66,Greg C. Garland,2013,"$19,842,205 ",Energy,Male,Houston,TX
+GE,GENERAL ELECTRIC CO,Jeffrey R. Immelt,2013,"$19,776,716 ",Industrials,Male,Fairfield,CT
+AMP,AMERIPRISE FINANCIAL INC,James M. Cracchiolo,2013,"$19,752,269 ",Finance,Male,Minneapolis,MN
+DHR,DANAHER CORP,H. Lawrence Culp Jr.,2013,"$19,705,455 ",Health Care,Male,Washington,DC
+ODP,OFFICE DEPOT INC,Roland Smith,2013,"$19,649,273 ",Retail,Male,Boca Raton,FL
+WYNN,WYNN RESORTS LTD,Stephen A. Wynn,2013,"$19,601,381 ",Gaming,Male,Las Vegas,NV
+NLSN,NIELSEN HOLDINGS NV,David Calhoun,2013,"$19,494,877 ",Tech,Male,New York,NY
+WFC,WELLS FARGO & CO,John G. Stumpf,2013,"$19,320,409 ",Finance,Male,San Francisco,CA
+GT,GOODYEAR TIRE & RUBBER CO,Richard J. Kramer,2013,"$19,190,500 ",Automotive,Male,Akron,OH
+DE,DEERE & CO,Samuel R. Allen,2013,"$19,148,372 ",Industrials,Male,Moline,IL
+JAH,JARDEN CORP,James E. Lillie,2013,"$19,121,667 ",Consumer Products,Male,Boca Raton,FL
+GD,GENERAL DYNAMICS CORP,Phebe N. Novakovic,2013,"$19,033,073 ",Aerospace,Female,Falls Church,VA
+PFE,PFIZER INC,Ian Read,2013,"$18,947,747 ",Pharma,Male,New York,NY
+SPB,SPECTRUM BRANDS HOLDINGS INC,David R. Lumley,2013,"$18,864,041 ",Consumer Products,Male,Middleton,WI
+GPS,GAP INC,Glenn Murphy,2013,"$18,726,912 ",Retail,Male,San Francisco,CA
+LOW,LOWE'S COMPANIES INC,Robert A. Niblock,2013,"$18,714,193 ",Retail,Male,Mooresville,NC
